@@ -13,7 +13,7 @@ usage: xip [url]
    -x                       Display LAN IP Address
 
 
-It is very usuful to have a quick and convinient way to display the External IP (WAN)
-from the command line, without having to use your webbrowser. I made two version, 
+It is very useful to have a quick and convenient way to display the External IP (WAN)
+from the command line, without having to use your web-browser. I made two versions, 
 one to be run under Windows (xip.exe) and one for Linux (xip.py) using Python. 
 
