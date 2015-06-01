@@ -1,8 +1,9 @@
 #!/bin/env python
 
-## (c)gfragkos 2014
-## A console script to display your eXternal IP address. 
-## Using the -x option it will display your LAN IP address.
+## xip.py version 2.4 - A script to resolve your eXternal IP address :(c)gfragkos 2012        ##
+## Using the -x option it will display your LAN IP address.                                   ##
+## You may modify, reuse and distribute the code freely as long as it is referenced back      ##
+## to the author using the following line: ..based on xip.py by @drgfragkos                   ##
 
 import urllib2
 import sys
